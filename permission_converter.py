@@ -1,4 +1,4 @@
-octal_str = "644"
+octal_str = input("Введите число")
 
 # Разбиваем на цифры
 d1, d2, d3 = octal_str[0], octal_str[1], octal_str[2]
